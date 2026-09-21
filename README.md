@@ -1,6 +1,11 @@
 # VisionAI - Face Recognition & Biometric Attendance App
 
-A high-performance, enterprise-grade Facial Recognition & Attendance mobile application built with **Flutter** and powered by a **Django REST + ArcFace (InsightFace)** AI backend.
+[![Backend Repository](https://img.shields.io/badge/Backend_API-faceapp--backend-0052CC?style=for-the-badge&logo=django&logoColor=white)](https://github.com/Samarjitkashyp/faceapp-backend)
+[![Frontend App](https://img.shields.io/badge/Mobile_App-faceapp-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://github.com/Samarjitkashyp/faceapp)
+
+A high-performance, enterprise-grade Facial Recognition & Attendance mobile application built with **Flutter** and powered by the [VisionAI Django REST + ArcFace Backend](https://github.com/Samarjitkashyp/faceapp-backend).
+
+> 🔗 **Backend Repository**: This Flutter mobile client connects to the companion Django AI API hosted at **[https://github.com/Samarjitkashyp/faceapp-backend](https://github.com/Samarjitkashyp/faceapp-backend)**.
 
 ---
 
